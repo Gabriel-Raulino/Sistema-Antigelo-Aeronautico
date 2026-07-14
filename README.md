@@ -40,7 +40,7 @@ The firmware continuously processes data and executes conditional responses base
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Gabriel-Raulino/Sistema-Antigelo-Aeronautico.git
+   git clone https://github.com/Gabriel-Raulino/Aeronautical_Anti-Ice_System.git
    ```
 2. **Compile the Firmware:**
    * Open the project in **MPLAB X IDE (v5.35)**.
@@ -97,7 +97,7 @@ O firmware processa continuamente os dados e executa respostas condicionais base
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/Gabriel-Raulino/Sistema-Antigelo-Aeronautico.git
+   git clone https://github.com/Gabriel-Raulino/Aeronautical_Anti-Ice_System.git
    ```
 2. **Compile o Firmware:**
    * Abra o projeto no **MPLAB X IDE (v5.35)**.
